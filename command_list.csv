@@ -1,0 +1,29 @@
+  495  git clone https://github.com/11Olenka/HW_10.git
+  496  cd HW_10
+  497  git status
+  498  git add.
+  499  git add .
+  500  git status
+  501  git commit -m ' додано файл text_ignore.txt'
+  502  git status
+  503  git add .
+  504  git status
+"  505  git commit -m ""додано файл main_test.txt"""
+  506  git checkout -b developer
+  507  git add .
+  508  git commit -m 'додано develop_test.txt'
+  509  git status
+  510  git add .
+  511  git commit -m 'додані зміни до файлу develop_test.txt'
+  512  git status
+  513  checkout main
+  514  git ckeckout main
+  515  git ckeckout main
+  516  branchewsw
+  517  git branch
+  518  git ckeckout main
+  519  git checkout main
+  520  git marge developer
+  521  git merge developer
+  522  git log
+  523  history > command_list.csv
